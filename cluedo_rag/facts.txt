@@ -1,0 +1,54 @@
+The lord owns the estate.
+The lord likes to eat meat.
+The lord has debt at the bank.
+The lord has a gambling problem.
+The lord has a yellow Peugeot car.
+The estate is called Blackwood Mansion.
+The estate is 150 years old.
+The estate has a basement.
+The estate has a garage.
+The estate has a large garden.
+The estate has a guesthouse for guests who stay the night.
+There is a shed in the garden.
+The shed is filled with gardening tools.
+The shed can only be accessed by the gardener, the butler and the lord.
+The lady is married to the lord.
+The lady likes wearing fancy dresses.
+The lady is vegetarian.
+The lady has a personal feud with the chef.
+The butler is employed by the lord.
+The butler is 70 years old.
+The butler is always scolding the gardener for having too many breaks.
+The butler is very protective of his niece.
+The maid is employed by the lord.
+The maid is 25 years old.
+The maid is the newest employee in the estate.
+The maid assists the lady with the household.
+The maid is the niece of the butler.
+The maid is allergic to nuts.
+The chef is employed by the lord.
+The chef is specialised in cooking pasta with meatballs.
+The chef has an alcohol problem.
+The chef does not have a drivers license.
+The chef stores the supplies in the basement.
+The gardener is employed by the lord.
+The gardener works in the garden.
+The gardener works with the tools in the shed.
+The gardener is sick today and didn't come to work.
+The gardener is the cousin of the chef.
+The gardener always chews cherry bubblegum.
+The gardener drives the chef to work.
+The gardener owns a gray Audi car.
+The chaffeur is employed by the lord.
+The chaffeur takes care of the car.
+The chaffeur drives the lord to his appointments.
+The chaffeur is a recovering alcoholic.
+The supplier brings food to the estate on a weekly basis.
+The supplier has only contact with the chef.
+The supplier is being paid by the lord.
+The supplier sometimes smokes a cigarette with the gardener.
+The guest was invited by the lord.
+The guest is employed by the bank.
+The guest has an affair with the maid.
+The guest was murdered with a shovel.
+The dead body of the guest was found in the garden.
